@@ -123,6 +123,25 @@ nav a:hover::before {
     text-align: center;
 }
 
+.herotext2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 6em;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    text-align: center;
+}
+
+.herotext1 {
+    color: #fff;
+    background-color: #ff0000;
+    text-transform: uppercase;
+    font-family: impact;
+    font-size: 5em;
+    letter-spacing: 0.2em;
+    font-weight: 300;
+    text-align: center;
+}
 
 /*About*/
 
@@ -199,6 +218,33 @@ nav a:hover::before {
 .flavours-name {
     font-weight: bold;
 }
+
+/*COVID*/
+
+.covid {
+    padding: 4.1em;
+    background-color: #ff0000;
+    border: 3px solid black;
+}
+
+.covid-title {
+    margin-bottom: 1em;
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.covid-price {
+    text-align: right;
+    font-weight: bold;
+    margin-top: -22px;
+}
+
+.covid-name {
+    font-weight: bold;
+}
+
+
 
 /**CONTACT**/
 
